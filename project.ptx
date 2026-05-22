@@ -7,6 +7,11 @@
   <targets>
     <target name="web" format="html" />
     <target name="print" format="pdf" />
+    <target name="summer1" format="html">
+        <source>source/wrappers/SU26-1314.ptx</source>
+        <publication>publication/publication.xml</publication>
+        <output-dir>output/summer1</output-dir>
+    </target>
   </targets>
 </project>
 

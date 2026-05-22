@@ -9,6 +9,8 @@
     <subtitle>Summer I 2026</subtitle>
 
     <!-- Include chapters -->
+    <xi:include href="../current/prof.ptx" />
+    <xi:include href="./static/W-gen-policies.ptx" />
     <xi:include href="./static/AI.ptx" />
 
   </book>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="prof" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Instructor Information</title>
+
+  <introduction>
+    <p>Hi! My name is Anansa Green, and my pronouns are she/her. Please address me as Mrs. Green and be sure to let me know if I mispronounce your name or if you would like to be called something other than what is on the roster. Click below to view a brief (approx. 1.5 min) intro video to help you get to know me a little (no sound needed).</p>
+  </introduction>
+<video youtube="CXfsFyWg9cU" width="50%">
+</video>
+
+<section xml:id="philosophy">
+  <title>Teaching Philosophy</title>
+  <p>My philosophy of teaching can be summarized by the following statements:
+    <ul>
+      <li>
+        <p>
+          <em>Anyone</em> can get better at <em>anything</em> with consistent and effective effort.
+        </p>
+      </li>
+      <li>
+        <p>
+          Questions are <em>always</em> welcomed and encouraged.
+        </p>
+      </li>
+      <li>
+        <p>
+          Mistakes are expected, inspected, and respected.
+        </p>
+      </li>
+      <li>
+        <p>
+          <em>Problem-solving</em> is what you do when you don't know what to do.
+        </p>
+      </li>
+    </ul>
+  </p>
+</section>
+
+<section xml:id="contact">
+  <title>Contact Information</title>
+  <p>
+    <ul>
+      <li>
+        <p>
+          Phone: (432) 685-6803
+        </p>
+      </li>
+      <li>
+        <p>
+          Email: <email>agreen@midland.edu</email>
+        </p>
+      </li>
+      <li>
+        <p>
+          Office: MHAB 121
+        </p>
+      </li>
+    </ul>
+  </p>
+  <subsection xml:id="pref-method">
+    <title>Preferred Method</title>
+    <p>
+      Please note that <em>I prefer to be contacted through Canvas inbox messages</em> for a variety of reasons.</p>
+      <p>Before sending your message:
+      <ul>
+        <li>
+          <p>
+            Include a <em>2-3 word subject</em> that summarizes your request or question topic.
+          </p>
+        </li>
+        <li>
+          <p>
+            If you are messaging about a specific assignment, please <em>use the name of the assignment</em> as it appears in Canvas.
+          </p>
+        </li>
+        <li>
+          <p>
+            If you are messaging about a technical issue, <em>screenshots help</em> me understand exactly what you are describing and often help us avoid going back and forth. If you need help taking a screenshot, you may find this <url href="https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl">Chrome browser extension></url> useful.
+          </p>
+        </li>
+        <li>
+          <p>
+            If you choose to email me through my MC (Midland College) email address, please be sure to <em>include your name and course</em>.
+          </p>
+        </li>
+        <li>
+          <p>
+            NOTE: All discussions involving <em>personal information</em> (grades, attendance, etc.) <em>must</em> go through an <em>official MC</em> communication channel - either your @mail.midland.edu <em>student email</em> or <em>Canvas inbox</em> messages.
+          </p>
+        </li>
+      </ul>
+    </p>
+  </subsection>
+</section>
+<xi:include href="office.ptx" />
+</chapter>

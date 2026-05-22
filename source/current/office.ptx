@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="office" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Office Hours</title>
+
+  <p>Office hours are times that I have scheduled to meet with and talk to you outside of class time. I have a physical office in <em>MHAB 121</em> and a <xref ref="zoom">Virtual Zoom Office</xref>. You may schedule an appointment to reserve a specific time if desired, but you are <em>always welcome</em> to stop by without one during my regular office hours:
+<ul>
+    <li>
+        <p>
+            Monday-Thursday: 1:00 pm to 2:00 pm
+    <ul>
+        <li>
+            <p>
+                Both in-person and virtual for Weeks 1-4.
+            </p>
+        </li>
+        <li>
+            <p>
+                Virtual only for Weeks 3-6.
+            </p>
+        </li>
+    </ul>
+        </p>
+    </li>
+</ul></p>
+<p>I'm here to help! Because my schedule can fluctuate a bit week-to-week due to meetings, be sure to check the <alert>Meet with Mrs. Green</alert> link in the Canvas navigation menu for my most up-to-date availability. From there, you can either plan a time to drop in or lock in a reserved appointment spot. If the times listed don't fit your schedule, just send me a Canvas message and we will find a time that works.</p>
+<knowl xml:id="zoom">
+    <title>Click to show Zoom Office Hours invitation</title>
+    <p>
+        Join Zoom Meeting: https://midland-edu.zoom.us/j/89505651914 <br />
+        Meeting ID: 895 0565 1914 <br />
+    </p>
+</knowl>
+</section>
